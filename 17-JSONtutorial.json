@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Abhishek",
+        "favNumber": 4,
+        "isProgrammer": true,
+        "hobbies":["riding bikes and cars", "Producing the music"]
+
+    },
+    {
+        "name":"Yash",
+        "favNumber": 5,
+        "isProgrammer": true,
+        "hobbies":["riding bikes and cars", "Producing the music"]
+
+    }
+
+]

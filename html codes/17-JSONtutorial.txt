@@ -1,0 +1,5 @@
+Basically in json files you will have a object or an array
+
+use .json extension for creating the json file
+
+like I created a json file in 17-JSONtutorial.json

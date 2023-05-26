@@ -1,0 +1,11 @@
+falsy values are
+
+udefinend - value which is not defined
+
+null - it means the variable is defined but it is empty
+
+false - boolen value
+
+'' - empty string
+
+NaN - it is a gibrish number it is not a number
